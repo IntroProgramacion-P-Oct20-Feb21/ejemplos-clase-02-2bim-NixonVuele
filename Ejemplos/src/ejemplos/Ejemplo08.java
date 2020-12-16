@@ -29,7 +29,7 @@ public class Ejemplo08 {
         // Se hace uso del ciclo repetitivo for para recorrer el arreglo
         for (int i = 0; i < arreglo1.length; i++) {
             // agrego el valor de la posición del arreglo a la variable
-            // acumuladora  suma
+            // acumuladora  suma.
             suma = suma + arreglo1[i];
         }
         

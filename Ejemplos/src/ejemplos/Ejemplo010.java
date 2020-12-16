@@ -29,7 +29,7 @@ public class Ejemplo010 {
         for (int i = 0; i < promedios.length; i++) { // estudiantes.length 
             // Se agrega los valores al reporte siempe y cuando
             // el valor de la posición del arreglo promedios
-            // sea mayor o igual a 9.5
+            // sea mayor o igual a 9.5.
             if (promedios[i]>=9.5) {
             
                 mensajeFinal = String.format("%sEstudiante:%s - promedio: "

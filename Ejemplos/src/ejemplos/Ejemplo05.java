@@ -25,7 +25,7 @@ public class Ejemplo05 {
         arreglo1[2] = 50;
         arreglo1[3] = 70;
         arreglo1[4] = 90;
-        // Se hace uso del ciclo repetitivo for para recorrer el arreglo
+        // Se hace uso del ciclo repetitivo for para recorrer el arreglo.
         for (int i = 0; i < arreglo1.length; i++) {
             System.out.printf("Subíndice o Índice %d, con valor %d\n",
                     i, arreglo1[i]);
